@@ -1,4 +1,4 @@
-# women_safety_app
+# She Shield
 
 A new Flutter project.
 
