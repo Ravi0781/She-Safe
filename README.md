@@ -1,16 +1,5 @@
 # She Safe
 
-A new Flutter project.
+- Women’s safety app using Flutter, offering emergency features like shake-to-send live location, direct calls to emergency services, and quick navigation to nearby essential services such as police stations and hospitals.
+- Integrated real-time location tracking and background SMS to enable automated location sharing and instant emergency calls, enhancing user security and response efficiency in critical situations.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
